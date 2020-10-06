@@ -1,0 +1,44 @@
+body{
+    margin : 0;
+    background-color:  #EEE;
+    font-family: roboto;
+
+}
+
+header{
+    background-color: white;
+    padding: 15px;
+    font-size: 1.35cm;
+    text-align: center;
+    position: sticky;
+    top : 0;
+    z-index: 99;
+}
+.head{
+    width: 96vw;
+    margin: 0 2vw;
+    height: 50vw;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+.title{
+
+    position: absolute;
+    bottom : 0;
+    padding : 15px;
+    background-color: rgba(0, 0, 0, 0,5);
+    color: white;
+
+}
+
+
+.desc{
+    padding: 15px;
+    color: #666;
+    margin: 0 2vw;
+    background-color: white;
+    margin-bottom: 15px;
+}
+
